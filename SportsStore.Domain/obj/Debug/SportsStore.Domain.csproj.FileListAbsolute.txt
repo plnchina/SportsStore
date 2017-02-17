@@ -22,8 +22,11 @@ E:\work\SportsStore\SportsStore.Domain\bin\Debug\zh-Hans\System.Web.WebPages.Raz
 E:\work\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 E:\work\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 E:\work\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
@@ -31,6 +34,8 @@ E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
@@ -43,11 +48,6 @@ E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\zh-Hans\System.Web.Razor
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 E:\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 E:\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
-E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
-E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
-E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
-E:\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

@@ -23,6 +23,10 @@ namespace SportsStore.Domain.Entities
                 cline.Quantity = quantity;
                 lineCollection.Add(cline);
             }
+            else
+            {
+                line.Quantity += quantity;
+            }
         }
 
         public void RemoveLine(Product product)
@@ -40,9 +44,10 @@ namespace SportsStore.Domain.Entities
             lineCollection.Clear();
         }
 
-        public IEnumerable<CartLine> Lines()
+        public IEnumerable<CartLine> Lines
         {
-            GetHashCode{ return lineCollection; }
+            //GetHashCode( return lineCollection; )
+            get{ return lineCollection; }
         }
     }
 

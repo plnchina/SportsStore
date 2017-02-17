@@ -80,6 +80,8 @@ E:\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -90,6 +92,8 @@ E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.ApplicationInsights.d
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.dll
+E:\SportsStore\SportsStore\SportsStore.WebUI\bin\MySql.Data.dll
+E:\SportsStore\SportsStore\SportsStore.WebUI\bin\MySql.Data.Entity.EF6.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
@@ -103,6 +107,8 @@ E:\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
@@ -128,9 +134,3 @@ E:\SportsStore\SportsStore\SportsStore.WebUI\bin\zh-Hans\System.Web.Mvc.resource
 E:\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 E:\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 E:\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
-E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
-E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
-E:\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
-E:\SportsStore\SportsStore\SportsStore.WebUI\bin\MySql.Data.dll
-E:\SportsStore\SportsStore\SportsStore.WebUI\bin\MySql.Data.Entity.EF6.dll
