@@ -80,6 +80,7 @@
     <Compile Include="Abstract\IProductRepository.cs" />
     <Compile Include="ConCrete\EFDbContext.cs" />
     <Compile Include="ConCrete\EFProductRepository.cs" />
+    <Compile Include="Entities\Cart.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
